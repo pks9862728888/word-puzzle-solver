@@ -1,5 +1,5 @@
 # word-puzzle-solver
-This algorithm finds possible location of word in puzzle when the first and last location of the words are given.
+This algorithm finds possible location of word in puzzle when the first and last letter of words are given.
 
 Suppose we want to find location of the word: ELIGIBLE & it is shown as E _ _ _ _ _ _ E in hint
 Then we should enter the word as E******E for searching.
